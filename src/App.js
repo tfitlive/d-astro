@@ -1,22 +1,32 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './appicon.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <div className="App-logo" alt="logo">
+
+        </div>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          The most popular astrology app! before you use it you need read the <a href="https://www.tfit.live/support/terms.html">Terms</a> and <a href="https://www.tfit.live/support/privacy.html">Privacy</a>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          AppStore
+        </a>
+        <a
+          className="App-link"
+          href="#"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GooglePlay
         </a>
       </header>
     </div>
