@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81cfe6e22f48d22272c8675f934135bf",
+    "revision": "f99cb5cc8cd40d7dabb9c823bd8f96c7",
     "url": "/d-astro/index.html"
   },
   {
-    "revision": "1f0dfd16021aee7db832",
-    "url": "/d-astro/static/css/main.2cce8147.chunk.css"
+    "revision": "4f0a928774c483d4d71c",
+    "url": "/d-astro/static/css/main.f36c77e7.chunk.css"
   },
   {
-    "revision": "2e0129063922e3bb197a",
-    "url": "/d-astro/static/js/2.b41502e9.chunk.js"
+    "revision": "2315f74ce3c99316133d",
+    "url": "/d-astro/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "1f0dfd16021aee7db832",
-    "url": "/d-astro/static/js/main.c191a8fc.chunk.js"
+    "revision": "4f0a928774c483d4d71c",
+    "url": "/d-astro/static/js/main.9653b266.chunk.js"
   },
   {
     "revision": "cc405ef9b637685ef4d6",
