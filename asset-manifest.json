@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/d-astro/static/css/main.2cce8147.chunk.css",
-    "main.js": "/d-astro/static/js/main.85299cfe.chunk.js",
-    "main.js.map": "/d-astro/static/js/main.85299cfe.chunk.js.map",
+    "main.js": "/d-astro/static/js/main.c191a8fc.chunk.js",
+    "main.js.map": "/d-astro/static/js/main.c191a8fc.chunk.js.map",
     "runtime~main.js": "/d-astro/static/js/runtime~main.925aa9f7.js",
     "runtime~main.js.map": "/d-astro/static/js/runtime~main.925aa9f7.js.map",
     "static/js/2.b41502e9.chunk.js": "/d-astro/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/d-astro/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/d-astro/index.html",
-    "precache-manifest.30da5d97da6f17f42578afb14cc539bb.js": "/d-astro/precache-manifest.30da5d97da6f17f42578afb14cc539bb.js",
+    "precache-manifest.ef93d2895bc8d4724a941a502e51791e.js": "/d-astro/precache-manifest.ef93d2895bc8d4724a941a502e51791e.js",
     "service-worker.js": "/d-astro/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/d-astro/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/d-astro/static/media/logo.5d5d9eef.svg"
+    "static/media/appicon.png": "/d-astro/static/media/appicon.839a5925.png"
   }
 }
