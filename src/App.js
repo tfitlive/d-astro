@@ -22,7 +22,7 @@ function App() {
         </a>
         <a
           className="GooglePlay"
-          href="https://play.google.com/store/apps/details?id=live.tfit.daily_astrology"
+          href="https://play.google.com/store/apps/details?id=live.truevalue.daily_astrology"
           target="_blank"
           rel="noopener noreferrer"
         >
